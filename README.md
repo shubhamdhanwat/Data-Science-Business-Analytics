@@ -19,9 +19,13 @@ K-means algorithm :
   The distances are measured based on the coordinates of the observations. For instance, in a two-dimensional space, the coordinates are simple.
   
   The algorithm works as follow:
+  
     Step 1: Choose groups in the feature plan randomly.
+    
     Step 2: Minimize the distance between the cluster center and the different observations (centroid). It results in groups with observations.
+    
     Step 3: Shift the initial centroid to the mean of the coordinates within a group.
+    
     Step 4: Minimize the distance according to the new centroids. New boundaries are created. Thus, observations will move from one group to another.
     Repeat until no observation changes groups.     
     
