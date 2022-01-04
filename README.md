@@ -30,7 +30,7 @@ K-means algorithm :
 Dataset Link : https://bit.ly/3i4rbWl
 
 Exploratory Data Analysis :
- EDA is primarily used to see what data can reveal beyond the formal modeling or hypothesis testing task and provides a provides a better understanding of data set variables       and the relationships between them.
+  - EDA is primarily used to see what data can reveal beyond the formal modeling or hypothesis testing task and provides a provides a better understanding of data set variables       and the relationships between them.
  
  RESULT AND CONCLUSION
          - Profit is more than that of sale but there are some areas where profit could be increased.
